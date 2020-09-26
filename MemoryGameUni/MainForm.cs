@@ -25,7 +25,6 @@ namespace MemoryGameUni
          *  - option to play again
          *  - countdown timer per round
          *  - Made sure while random right answer alaways appears
-         *  - 
          *
          * TODO:
          *  - Count how many seconds user takes to guess a fruit
